@@ -1,0 +1,135 @@
+@font-face {
+    font-family: 'Volvo Novum 3.1';
+    src: url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Bold.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Volvo Novum 3.1';
+    src: url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-BoldItalic.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Volvo Novum 3.1';
+    src: url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Bold.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Volvo Novum 3.1';
+    src: url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-BoldItalic.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Volvo Novum 3.1';
+    src: url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-LightItalic.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Volvo Novum 3.1';
+    src: url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Italic.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Volvo Novum 3.1';
+    src: url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Regular.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Volvo Novum 3.1';
+    src: url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Italic.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Volvo Novum 3.1';
+    src: url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Light.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Volvo Novum 3.1 SemiLight';
+    src: url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-SemiLight.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-SemiLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Volvo Novum 3.1 SemiLight';
+    src: url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-SemiLight.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-SemiLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Volvo Novum 3.1';
+    src: url('https://raw.githubuseraccount.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-LightItalic.woff2') format('woff2'),
+        url('https://raw.githubuseraccount.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Volvo Novum 3.1 SemiLight';
+    src: url('https://raw.githubuseraccount.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum31-SemiLightItalic.woff2') format('woff2'),
+        url('https://raw.githubuseraccount.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-SemiLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Volvo Novum 3.1';
+    src: url('https://raw.githubuseraccount.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Regular.woff2') format('woff2'),
+        url('https://raw.githubuseraccount.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Volvo Novum 3.1';
+    src: url('https://raw.githubuseraccount.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Light.woff2') format('woff2'),
+        url('https://raw.githubuseraccount.com/lakeisacsson/volvo-novum-font/blob/main/VolvoNovum3-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
